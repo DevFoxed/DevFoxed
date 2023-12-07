@@ -35,7 +35,7 @@ Do visit my Medium page where I ocassioanlly publish about my experiences explor
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,nodejs" />
   </a>
 </p>
 
