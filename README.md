@@ -3,7 +3,7 @@
  <h2 align="center">Profile</h2>
 </p>
 
-### Hi there 👋 I am [Apurv Shah](https://apurvshah007.github.io)
+### Hi there 👋 I am [DevFoxed](https://DevFoxed.github.io)
 
 <a href="https://www.linkedin.com/in/apurv-shah/">
   <img align="left" alt="Apurv's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -32,6 +32,12 @@ Do visit my Medium page where I ocassioanlly publish about my experiences explor
 </div>
 
 <div><p>My profile overview: </p></div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 ![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=DevFoxed&show_icons=true)
 <br />
